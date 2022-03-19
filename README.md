@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Spacebib
+- 🔭 I’m looking for a job
 
 ![Qu's github stats](https://github-readme-stats.vercel.app/api?username=JunQu&show_icons=true&title_color=f3f3f3&icon_color=65d363&text_color=ccc&bg_color=111)
 
